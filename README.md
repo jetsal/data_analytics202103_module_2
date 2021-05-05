@@ -18,7 +18,7 @@ github account, the same way as you did with your prework. Subsequently  you can
 5. Check the Trello board here for more information on lab submission 
 
 ## Note on lab solutions and submissions
-The folder `module_1_solutions`solutions contains the proposed solutions of the labs. You are expected to check yourself your solutions against the proposed solutions. The teaching staff will be here to support you in case you have doubts or you would like feedback on specific issues. **Of course you are still expected to submit all assigned labs within the deadlines and the submissions will be checked**
+The folder `module_2_solutions`solutions contains the proposed solutions of the labs. You are expected to check yourself your solutions against the proposed solutions. The teaching staff will be here to support you in case you have doubts or you would like feedback on specific issues. **Of course you are still expected to submit all assigned labs within the deadlines and the submissions will be checked**
  
 ## Getting notebooks to run
 Our main tool to perform data analysis and present results is Jupyter Notebook and Jupyter Lab.
